@@ -18,9 +18,9 @@ Copyright (C) Microsoft Corporation. All rights reserved.
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>10.0.30319</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{21a236bc-5551-4e5f-91a4-1b9f035b1bb5}</ProjectGuid>
+    <ProjectGuid>{bd5cedfb-713c-445f-af3f-9858f0024a5a}</ProjectGuid>
     <SourceWebPhysicalPath>$(MSBuildThisFileDirectory)</SourceWebPhysicalPath>
-    <SourceWebVirtualPath>/webiste4</SourceWebVirtualPath>
+    <SourceWebVirtualPath>/Desktop1</SourceWebVirtualPath>
     <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <SourceWebProject></SourceWebProject>
     <SourceWebMetabasePath></SourceWebMetabasePath>
